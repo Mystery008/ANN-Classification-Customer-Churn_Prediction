@@ -3,6 +3,7 @@ numpy
 pandas 
 scikit-learn
 matplotlib
-streamlit
 h5py
 tensorboard
+streamlit>=1.30.0
+protobuf==3.20.3
